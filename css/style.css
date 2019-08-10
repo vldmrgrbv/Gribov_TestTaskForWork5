@@ -1,0 +1,46 @@
+body {
+	font-size: 20px;
+}
+
+
+.block_reg__form {
+	display: flex;
+	flex-direction: column;
+}
+
+.block_reg {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+}
+
+a {
+	font-size: 20px;
+	margin: 10px;
+}
+
+table {
+	border: 2px solid black;
+	padding: 10px;
+	margin-top:50px;
+}
+
+th {
+	font-size: 25px;
+	font-family: Arial;
+}
+
+ td {
+	font-size: 18px;
+	font-family: Arial;
+	text-align: justify;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 0;
+}
+.href {
+	text-align: center;
+}
